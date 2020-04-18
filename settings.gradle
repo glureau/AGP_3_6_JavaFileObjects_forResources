@@ -1,0 +1,2 @@
+rootProject.name='AGP_3_6_JavaFileObjects_forResources'
+include ':app'
