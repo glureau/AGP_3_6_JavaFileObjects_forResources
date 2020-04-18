@@ -1,5 +1,5 @@
-# AGP_3_6_JavaFileObjects_forResources
-Issue with JavaFileObjects.forResource since upgrade from AGP 3.5 to 3.6
+# AGP 3.6.2 + JavaFileObjects.forResources(String)
+Issue with JavaFileObjects.forResource(String) since upgrade from AGP 3.5 to 3.6
 
 Run unit test from master => OK (the path is print on the standard output).
 
