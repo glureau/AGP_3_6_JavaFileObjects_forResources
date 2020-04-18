@@ -36,3 +36,5 @@ Switch your branch to **update_agp_to_version_3_6_2** (and use "Sync now" if tes
         at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242)
         at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70)
 
+
+Related issue at Compile-Testing: https://github.com/google/compile-testing/issues/190
