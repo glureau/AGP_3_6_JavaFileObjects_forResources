@@ -1,5 +1,5 @@
-# AGP 3.6.2 + JavaFileObjects.forResources(String)
-Issue with JavaFileObjects.forResource(String) since upgrade from AGP 3.5 to 3.6
+# AGP 3.6.2 + Resources.getResource(String)
+Issue with Resources.getResource(String) since upgrade from AGP 3.5 to 3.6.[0-3]
 
 Run unit test from master => OK (the path is print on the standard output).
 
@@ -38,3 +38,4 @@ Switch your branch to **update_agp_to_version_3_6_2** (and use "Sync now" if tes
 
 
 Related issue at Compile-Testing: https://github.com/google/compile-testing/issues/190
+Related issue at AGP: https://issuetracker.google.com/issues/154441059
